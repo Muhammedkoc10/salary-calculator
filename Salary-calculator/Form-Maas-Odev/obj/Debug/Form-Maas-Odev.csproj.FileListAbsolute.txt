@@ -1,0 +1,10 @@
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\bin\Debug\Form-Maas-Odev.exe.config
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\bin\Debug\Form-Maas-Odev.exe
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\bin\Debug\Form-Maas-Odev.pdb
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form-Maas-Odev.csproj.AssemblyReference.cache
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form_Maas_Odev.Form1.resources
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form_Maas_Odev.Properties.Resources.resources
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form-Maas-Odev.csproj.GenerateResource.cache
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form-Maas-Odev.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form-Maas-Odev.exe
+C:\Users\muham\source\forms app\Form-Maas-Odev\Form-Maas-Odev\obj\Debug\Form-Maas-Odev.pdb
